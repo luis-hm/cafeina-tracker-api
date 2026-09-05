@@ -1,0 +1,1121 @@
+{
+  "schema": 1,
+  "sinais": {
+    "ARQUIVO_INEXISTENTE::cafeina-tracker-api::T-001": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "T-001",
+      "ocorrencias": 6,
+      "primeiraVez": "2026-09-01T02:47:53.594Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::cafeina-tracker-api::T-002": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "T-002",
+      "ocorrencias": 4,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::cafeina-tracker-api::T-003": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "T-003",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::cafeina-tracker-api::T-004": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "T-004",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::cafeina-tracker-api::T-005": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "T-005",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::cafeina-tracker-api::T-006": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "T-006",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::cafeina-tracker-api::T-007": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "T-007",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-001": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-001",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-002": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-002",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-003": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-003",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.595Z",
+      "ultimaVez": "2026-09-01T02:47:53.595Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-004": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-004",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-005": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-005",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-006": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-006",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-007": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-007",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-008": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-008",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-009": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-009",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-010": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-010",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-011": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-011",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-012": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-012",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-013": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-013",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-014": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-014",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-015": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-015",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-016": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-016",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-017": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-017",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-018": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-018",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-019": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-019",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-020": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-020",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::cafeina-tracker-api::AC-021": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "cafeina-tracker-api",
+      "ref": "AC-021",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "GLOB_SEM_ARQUIVOS::—::P-002": {
+      "codigo": "GLOB_SEM_ARQUIVOS",
+      "feature": "—",
+      "ref": "P-002",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "GLOB_SEM_ARQUIVOS::—::P-003": {
+      "codigo": "GLOB_SEM_ARQUIVOS",
+      "feature": "—",
+      "ref": "P-003",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "GLOB_SEM_ARQUIVOS::—::P-004": {
+      "codigo": "GLOB_SEM_ARQUIVOS",
+      "feature": "—",
+      "ref": "P-004",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T02:47:53.596Z",
+      "ultimaVez": "2026-09-01T02:47:53.596Z",
+      "gitRev": null
+    },
+    "VERIFICACAO_MALFORMADA::—::P-002": {
+      "codigo": "VERIFICACAO_MALFORMADA",
+      "feature": "—",
+      "ref": "P-002",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T03:04:32.926Z",
+      "ultimaVez": "2026-09-01T03:50:39.253Z",
+      "gitRev": null
+    },
+    "VERIFICACAO_MALFORMADA::—::P-003": {
+      "codigo": "VERIFICACAO_MALFORMADA",
+      "feature": "—",
+      "ref": "P-003",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T03:04:32.926Z",
+      "ultimaVez": "2026-09-01T03:50:39.253Z",
+      "gitRev": null
+    },
+    "VERIFICACAO_MALFORMADA::—::P-004": {
+      "codigo": "VERIFICACAO_MALFORMADA",
+      "feature": "—",
+      "ref": "P-004",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T03:04:32.926Z",
+      "ultimaVez": "2026-09-01T03:50:39.253Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-arquitetura::T-008": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-arquitetura",
+      "ref": "T-008",
+      "ocorrencias": 21,
+      "primeiraVez": "2026-09-01T03:19:54.014Z",
+      "ultimaVez": "2026-09-01T03:27:31.729Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-arquitetura::T-009": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-arquitetura",
+      "ref": "T-009",
+      "ocorrencias": 33,
+      "primeiraVez": "2026-09-01T03:19:54.014Z",
+      "ultimaVez": "2026-09-01T03:27:31.729Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-arquitetura::T-010": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-arquitetura",
+      "ref": "T-010",
+      "ocorrencias": 20,
+      "primeiraVez": "2026-09-01T03:19:54.014Z",
+      "ultimaVez": "2026-09-01T04:02:01.200Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-arquitetura::T-011": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-arquitetura",
+      "ref": "T-011",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T03:19:54.014Z",
+      "ultimaVez": "2026-09-01T03:27:31.729Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-arquitetura::T-013": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-arquitetura",
+      "ref": "T-013",
+      "ocorrencias": 16,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T03:27:31.729Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-arquitetura::T-014": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-arquitetura",
+      "ref": "T-014",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T03:27:31.729Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-022": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-022",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.204Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-023": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-023",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-024": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-024",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-025": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-025",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-026": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-026",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-027": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-027",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-028": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-028",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-029": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-029",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-030": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-030",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T03:27:31.729Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-031": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-031",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-032": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-032",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-arquitetura::AC-033": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-033",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:19:54.015Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-015": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-015",
+      "ocorrencias": 10,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T03:27:31.730Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-016": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-016",
+      "ocorrencias": 42,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T04:28:01.483Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-017": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-017",
+      "ocorrencias": 24,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T04:28:01.483Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-018": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-018",
+      "ocorrencias": 40,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T04:28:01.483Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-019": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-019",
+      "ocorrencias": 44,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T04:28:01.484Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-020": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-020",
+      "ocorrencias": 24,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T04:28:01.484Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-021": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-021",
+      "ocorrencias": 6,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T03:27:31.730Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::frontend-design::T-022": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "frontend-design",
+      "ref": "T-022",
+      "ocorrencias": 16,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T04:28:01.484Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-034": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-034",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-035": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-035",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-036": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-036",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-037": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-037",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-038": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-038",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-039": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-039",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-040": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-040",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-041": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-041",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-042": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-042",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-043": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-043",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-044": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-044",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-045": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-045",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-046": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-046",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-047": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-047",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-048": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-048",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.206Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-049": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-049",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.207Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-050": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-050",
+      "ocorrencias": 11,
+      "primeiraVez": "2026-09-01T03:23:51.207Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "VERIFY_OBSOLETO::cafeina-tracker-api::—": {
+      "codigo": "VERIFY_OBSOLETO",
+      "feature": "cafeina-tracker-api",
+      "ref": "—",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T03:50:39.251Z",
+      "ultimaVez": "2026-09-01T05:07:19.945Z",
+      "gitRev": null
+    },
+    "ID_DUPLICADO::frontend-design::ASM-012": {
+      "codigo": "ID_DUPLICADO",
+      "feature": "frontend-design",
+      "ref": "ASM-012",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T04:02:01.199Z",
+      "ultimaVez": "2026-09-01T04:02:01.199Z",
+      "gitRev": null
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::frontend-arquitetura::T-008": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "frontend-arquitetura",
+      "ref": "T-008",
+      "ocorrencias": 4,
+      "primeiraVez": "2026-09-01T04:02:01.200Z",
+      "ultimaVez": "2026-09-01T04:02:01.200Z",
+      "gitRev": null
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::frontend-arquitetura::T-009": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "frontend-arquitetura",
+      "ref": "T-009",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T04:02:01.200Z",
+      "ultimaVez": "2026-09-01T04:02:01.200Z",
+      "gitRev": null
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::frontend-arquitetura::T-010": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "frontend-arquitetura",
+      "ref": "T-010",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T04:02:01.200Z",
+      "ultimaVez": "2026-09-01T04:02:01.200Z",
+      "gitRev": null
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::frontend-arquitetura::T-011": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "frontend-arquitetura",
+      "ref": "T-011",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T04:02:01.200Z",
+      "ultimaVez": "2026-09-01T04:02:01.200Z",
+      "gitRev": null
+    },
+    "TASK_CONCLUIDA_SEM_PROVA::frontend-arquitetura::T-012": {
+      "codigo": "TASK_CONCLUIDA_SEM_PROVA",
+      "feature": "frontend-arquitetura",
+      "ref": "T-012",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T04:02:01.200Z",
+      "ultimaVez": "2026-09-01T04:02:01.200Z",
+      "gitRev": null
+    },
+    "AC_SEM_PROVA::frontend-arquitetura::AC-030": {
+      "codigo": "AC_SEM_PROVA",
+      "feature": "frontend-arquitetura",
+      "ref": "AC-030",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T04:02:01.200Z",
+      "ultimaVez": "2026-09-01T04:02:01.200Z",
+      "gitRev": null
+    },
+    "ID_DUPLICADO::frontend-design::ASM-015": {
+      "codigo": "ID_DUPLICADO",
+      "feature": "frontend-design",
+      "ref": "ASM-015",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T04:03:28.020Z",
+      "ultimaVez": "2026-09-01T04:03:28.020Z",
+      "gitRev": null
+    },
+    "ID_DUPLICADO::frontend-design::ASM-017": {
+      "codigo": "ID_DUPLICADO",
+      "feature": "frontend-design",
+      "ref": "ASM-017",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T04:28:01.482Z",
+      "ultimaVez": "2026-09-01T04:28:01.483Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-051": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-051",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T04:28:01.484Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-052": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-052",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T04:28:01.484Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::frontend-design::AC-053": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "frontend-design",
+      "ref": "AC-053",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-01T04:28:01.484Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "VERIFY_OBSOLETO::frontend-arquitetura::—": {
+      "codigo": "VERIFY_OBSOLETO",
+      "feature": "frontend-arquitetura",
+      "ref": "—",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-01T05:07:19.946Z",
+      "ultimaVez": "2026-09-01T05:07:19.946Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-023": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-023",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-024": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-024",
+      "ocorrencias": 6,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-025": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-025",
+      "ocorrencias": 8,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-026": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-026",
+      "ocorrencias": 4,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-027": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-027",
+      "ocorrencias": 4,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-028": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-028",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-029": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-029",
+      "ocorrencias": 8,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-030": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-030",
+      "ocorrencias": 4,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-031": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-031",
+      "ocorrencias": 6,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-033": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-033",
+      "ocorrencias": 6,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "ARQUIVO_INEXISTENTE::laboratorio-executavel::T-034": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "laboratorio-executavel",
+      "ref": "T-034",
+      "ocorrencias": 6,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-054": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-054",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-055": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-055",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-056": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-056",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-057": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-057",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-058": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-058",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-059": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-059",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-060": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-060",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-061": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-061",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-062": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-062",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-063": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-063",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-064": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-064",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-065": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-065",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-066": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-066",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-067": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-067",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-068": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-068",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-069": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-069",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-070": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-070",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-071": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-071",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-072": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-072",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-073": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-073",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-074": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-074",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    },
+    "AC_SEM_TESTE::laboratorio-executavel::AC-075": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "laboratorio-executavel",
+      "ref": "AC-075",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-01T05:07:19.947Z",
+      "ultimaVez": "2026-09-01T05:08:08.205Z",
+      "gitRev": null
+    }
+  }
+}

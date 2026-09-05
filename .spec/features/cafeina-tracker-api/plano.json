@@ -1,0 +1,150 @@
+{
+  "runId": "cafeina-tracker-api-cafeina-tracker-api-mti2kj77",
+  "feature": "cafeina-tracker-api",
+  "agent": "codex",
+  "modo": "sequencial",
+  "paralelizar": null,
+  "modeloForcado": null,
+  "esforcoForcado": null,
+  "geradoEm": "2026-09-01 02:50",
+  "branchTrabalho": "spec/cafeina-tracker-api",
+  "baseDir": ".spec/features/cafeina-tracker-api",
+  "specDir": ".spec",
+  "repoName": "cafeina-tracker-api",
+  "logsDir": "../onp-worktrees/cafeina-tracker-api-cafeina-tracker-api-logs",
+  "ondas": [],
+  "faixas": [],
+  "sequenciais": [
+    {
+      "id": "T-001",
+      "titulo": "Configurar projeto, compilação e runners",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "medium",
+      "arquivos": [
+        "package.json",
+        "package-lock.json",
+        "tsconfig.json",
+        "tsconfig.jest.json",
+        "jest.config.js",
+        "tests-jasmine/support/jasmine.json",
+        "onpspec.config.json",
+        ".gitignore"
+      ],
+      "refs": [
+        "US-007",
+        "AC-021"
+      ]
+    },
+    {
+      "id": "T-002",
+      "titulo": "Implementar e testar a lógica do tracker",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "src/logica/tipos.ts",
+        "src/logica/tracker.ts",
+        "tests-jest/tracker.test.ts",
+        "tests-jasmine/tracker.spec.ts"
+      ],
+      "refs": [
+        "US-001",
+        "US-002",
+        "US-003",
+        "AC-001",
+        "AC-002",
+        "AC-003",
+        "AC-004",
+        "AC-005",
+        "AC-006",
+        "AC-007",
+        "AC-008",
+        "AC-009"
+      ]
+    },
+    {
+      "id": "T-003",
+      "titulo": "Implementar e testar o serviço de cafeteria",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "medium",
+      "arquivos": [
+        "src/servico/cafeteria.ts",
+        "tests-jest/cafeteria.test.ts",
+        "tests-jasmine/cafeteria.spec.ts"
+      ],
+      "refs": [
+        "US-004",
+        "AC-010",
+        "AC-011"
+      ]
+    },
+    {
+      "id": "T-004",
+      "titulo": "Implementar e testar as estatísticas em memória",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "medium",
+      "arquivos": [
+        "src/servico/estatisticas.ts",
+        "tests-jest/estatisticas.test.ts",
+        "tests-jasmine/estatisticas.spec.ts"
+      ],
+      "refs": [
+        "US-005",
+        "AC-012",
+        "AC-013",
+        "AC-014"
+      ]
+    },
+    {
+      "id": "T-005",
+      "titulo": "Implementar e testar a API HTTP",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "src/servidor.ts",
+        "src/index.ts",
+        "tests-jest/servidor.test.ts"
+      ],
+      "refs": [
+        "US-006",
+        "AC-015",
+        "AC-016",
+        "AC-017",
+        "AC-018",
+        "AC-019"
+      ]
+    },
+    {
+      "id": "T-006",
+      "titulo": "Provar paridade das suítes e snapshot",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "medium",
+      "arquivos": [
+        "tests-jest/paridade.test.ts",
+        "tests-jest/__snapshots__/tracker.test.ts.snap"
+      ],
+      "refs": [
+        "US-007",
+        "AC-020"
+      ]
+    },
+    {
+      "id": "T-007",
+      "titulo": "Documentar instalação, execução e seminário",
+      "modelo": "gpt-5.6-luna",
+      "esforco": "low",
+      "arquivos": [
+        "README.md"
+      ],
+      "refs": [
+        "US-006",
+        "US-007",
+        "AC-015",
+        "AC-017",
+        "AC-019",
+        "AC-021"
+      ]
+    }
+  ],
+  "concluidas": [],
+  "avisos": []
+}

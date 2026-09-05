@@ -1,0 +1,6 @@
+node_modules/
+build/
+coverage/
+.spec/verification/jest-results.json
+npm-debug.log*
+.env

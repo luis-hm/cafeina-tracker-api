@@ -1,0 +1,17 @@
+{
+  "feature": "frontend-arquitetura",
+  "timestamp": "2026-09-01T05:08:00.351Z",
+  "gitRev": null,
+  "command": "npm run test:spec:all",
+  "reporter": "jest-json",
+  "exitCode": 0,
+  "testsParsed": 22,
+  "results": {
+    "AC-030": {
+      "status": "pass",
+      "testName": "API HTTP @spec:AC-030 serve o frontend depois das rotas da API em um único processo @spec:AC-030 serve o frontend depois das rotas da API em um único processo",
+      "method": "jest-json"
+    }
+  },
+  "principles": {}
+}

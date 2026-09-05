@@ -1,0 +1,390 @@
+{
+  "success": true,
+  "numTotalTests": 22,
+  "numPassedTests": 22,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTotalTestSuites": 5,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "API HTTP"
+          ],
+          "duration": 57,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "API HTTP @spec:AC-015 POST /tracker retorna e registra um resultado válido",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 3,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-015 POST /tracker retorna e registra um resultado válido"
+        },
+        {
+          "ancestorTitles": [
+            "API HTTP"
+          ],
+          "duration": 11,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "API HTTP @spec:AC-016 POST /tracker retorna todos os erros e não registra entrada inválida",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 3,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-016 POST /tracker retorna todos os erros e não registra entrada inválida"
+        },
+        {
+          "ancestorTitles": [
+            "API HTTP"
+          ],
+          "duration": 6,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "API HTTP @spec:AC-017 GET /cafeteria/:id retorna o status da cafeteria",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-017 GET /cafeteria/:id retorna o status da cafeteria"
+        },
+        {
+          "ancestorTitles": [
+            "API HTTP"
+          ],
+          "duration": 11,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "API HTTP @spec:AC-018 GET /cafeteria sem identificador ou com espaços retorna erro claro",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 4,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-018 GET /cafeteria sem identificador ou com espaços retorna erro claro"
+        },
+        {
+          "ancestorTitles": [
+            "API HTTP"
+          ],
+          "duration": 11,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "API HTTP @spec:AC-019 GET /estatisticas e /health informam média e saúde",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 4,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-019 GET /estatisticas e /health informam média e saúde"
+        },
+        {
+          "ancestorTitles": [
+            "API HTTP"
+          ],
+          "duration": 28,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "API HTTP @spec:AC-030 serve o frontend depois das rotas da API em um único processo",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 4,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-030 serve o frontend depois das rotas da API em um único processo"
+        }
+      ],
+      "endTime": 1788239278912,
+      "message": "",
+      "name": "/home/dev/projetos/cafeina-tracker-api/tests-jest/servidor.test.ts",
+      "startTime": 1788239276609,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:CALC-BASE @spec:AC-001 recomenda o café base para um dia descansado",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:CALC-BASE @spec:AC-001 recomenda o café base para um dia descansado"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:CALC-SONO @spec:AC-002 soma uma unidade por hora de sono em falta",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:CALC-SONO @spec:AC-002 soma uma unidade por hora de sono em falta"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:CALC-REUNIOES @spec:AC-003 soma uma unidade por duas reuniões completas",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 3,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:CALC-REUNIOES @spec:AC-003 soma uma unidade por duas reuniões completas"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:CALC-TETO @spec:AC-004 limita a recomendação a dez",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:CALC-TETO @spec:AC-004 limita a recomendação a dez"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:RISCO-FAIXAS @spec:AC-005 classifica todas as fronteiras de risco",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 6,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:RISCO-FAIXAS @spec:AC-005 classifica todas as fronteiras de risco"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:MOTIVO-LISTA @spec:AC-006 sorteia itens de uma lista fixa com pelo menos cinco opções",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:MOTIVO-LISTA @spec:AC-006 sorteia itens de uma lista fixa com pelo menos cinco opções"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:VALIDA-SONO @spec:AC-007 aponta horas de sono inválidas",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 5,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:VALIDA-SONO @spec:AC-007 aponta horas de sono inválidas"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 2,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:VALIDA-REUNIOES @spec:AC-008 aponta quantidades de reuniões inválidas",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 5,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:VALIDA-REUNIOES @spec:AC-008 aponta quantidades de reuniões inválidas"
+        },
+        {
+          "ancestorTitles": [
+            "lógica do Cafeína Tracker"
+          ],
+          "duration": 9,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "lógica do Cafeína Tracker @paridade:MONTA-RESULTADO @spec:AC-009 compõe um resultado completo e permite snapshot",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:MONTA-RESULTADO @spec:AC-009 compõe um resultado completo e permite snapshot"
+        }
+      ],
+      "endTime": 1788239279006,
+      "message": "",
+      "name": "/home/dev/projetos/cafeina-tracker-api/tests-jest/tracker.test.ts",
+      "startTime": 1788239278925,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "serviço de cafeteria"
+          ],
+          "duration": 5,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "serviço de cafeteria @paridade:CAFETERIA-STATUS @spec:AC-010 retorna preço e disponibilidade após 200 ms",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:CAFETERIA-STATUS @spec:AC-010 retorna preço e disponibilidade após 200 ms"
+        },
+        {
+          "ancestorTitles": [
+            "serviço de cafeteria"
+          ],
+          "duration": 9,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "serviço de cafeteria @paridade:CAFETERIA-ID-INVALIDO @spec:AC-011 rejeita identificadores vazios",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:CAFETERIA-ID-INVALIDO @spec:AC-011 rejeita identificadores vazios"
+        }
+      ],
+      "endTime": 1788239279080,
+      "message": "",
+      "name": "/home/dev/projetos/cafeina-tracker-api/tests-jest/cafeteria.test.ts",
+      "startTime": 1788239279011,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "contratos do projeto"
+          ],
+          "duration": 2,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "contratos do projeto @spec:AC-020 Jest e Jasmine possuem a mesma matriz marcada de casos de negócio",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-020 Jest e Jasmine possuem a mesma matriz marcada de casos de negócio"
+        },
+        {
+          "ancestorTitles": [
+            "contratos do projeto"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "contratos do projeto @spec:AC-021 produção e Jasmine apontam somente para JavaScript compilado",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 6,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@spec:AC-021 produção e Jasmine apontam somente para JavaScript compilado"
+        }
+      ],
+      "endTime": 1788239279150,
+      "message": "",
+      "name": "/home/dev/projetos/cafeina-tracker-api/tests-jest/paridade.test.ts",
+      "startTime": 1788239279084,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "estatísticas em memória"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "estatísticas em memória @paridade:ESTATISTICAS-VAZIAS @spec:AC-012 retorna zero sem resultados",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:ESTATISTICAS-VAZIAS @spec:AC-012 retorna zero sem resultados"
+        },
+        {
+          "ancestorTitles": [
+            "estatísticas em memória"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "estatísticas em memória @paridade:ESTATISTICAS-MEDIA @spec:AC-013 calcula a média aritmética dos resultados",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:ESTATISTICAS-MEDIA @spec:AC-013 calcula a média aritmética dos resultados"
+        },
+        {
+          "ancestorTitles": [
+            "estatísticas em memória"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "estatísticas em memória @paridade:ESTATISTICAS-RESET @spec:AC-014 remove resultados registrados",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "@paridade:ESTATISTICAS-RESET @spec:AC-014 remove resultados registrados"
+        }
+      ],
+      "endTime": 1788239279202,
+      "message": "",
+      "name": "/home/dev/projetos/cafeina-tracker-api/tests-jest/estatisticas.test.ts",
+      "startTime": 1788239279154,
+      "status": "passed",
+      "summary": ""
+    }
+  ]
+}

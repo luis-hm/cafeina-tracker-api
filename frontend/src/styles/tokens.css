@@ -1,0 +1,74 @@
+:root {
+  color-scheme: light;
+
+  --font-display: 'Bricolage Grotesque Variable', sans-serif;
+  --font-body: 'Manrope Variable', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  --font-size-display: clamp(2rem, 4vw, 4.5rem);
+  --font-size-result: clamp(2.75rem, 7vw, 6.5rem);
+  --font-size-h1: clamp(1.75rem, 3vw, 3rem);
+  --font-size-h2: clamp(1.25rem, 2vw, 1.75rem);
+  --font-size-body: 1rem;
+  --font-size-small: 0.875rem;
+  --font-size-data: 0.8125rem;
+  --line-body: 1.55;
+  --line-tight: 1.05;
+
+  --color-porcelain: #f7f7f2;
+  --color-aluminium: #d7d8d2;
+  --color-aluminium-dark: #a9aaa4;
+  --color-espresso: #241711;
+  --color-coffee: #5b2f1d;
+  --color-crema: #d58a35;
+  --color-panel-blue: #2e5c9a;
+  --color-alarm-red: #bf3a30;
+  --color-white: #ffffff;
+
+  --risk-safe: #2e6b57;
+  --risk-attention: #a76518;
+  --risk-high: #a84d28;
+  --risk-critical: var(--color-alarm-red);
+  --text-primary: var(--color-espresso);
+  --text-muted: #665e59;
+  --text-inverse: var(--color-white);
+  --border-subtle: #b8b9b3;
+  --border-strong: #7f807a;
+  --surface-page: var(--color-porcelain);
+  --surface-panel: #e5e5df;
+  --surface-raised: var(--color-white);
+  --surface-code: #f9f9f6;
+  --surface-selected: #fff0dd;
+  --surface-danger: #fff0ee;
+  --surface-overlay: rgb(36 23 17 / 42%);
+  --focus-ring: var(--color-panel-blue);
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  --radius-control: 0.625rem;
+  --radius-panel: 1.25rem;
+  --radius-round: 999px;
+
+  --shadow-control: 0 1px 1px rgb(36 23 17 / 12%);
+  --shadow-panel: 0 18px 45px rgb(36 23 17 / 12%);
+  --shadow-dialog: 0 28px 80px rgb(36 23 17 / 28%);
+
+  --duration-fast: 110ms;
+  --duration-base: 160ms;
+  --duration-panel: 260ms;
+  --duration-liquid: 700ms;
+  --ease-mechanical: cubic-bezier(0.22, 1, 0.36, 1);
+
+  color: var(--text-primary);
+  background: var(--surface-page);
+  font-family: var(--font-body);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}

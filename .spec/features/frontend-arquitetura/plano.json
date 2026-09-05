@@ -1,0 +1,175 @@
+{
+  "runId": "cafeina-tracker-api-frontend-arquitetura-mti5uqwv",
+  "feature": "frontend-arquitetura",
+  "agent": "codex",
+  "modo": "sequencial",
+  "paralelizar": null,
+  "modeloForcado": null,
+  "esforcoForcado": null,
+  "geradoEm": "2026-09-01 04:22",
+  "branchTrabalho": "spec/frontend-arquitetura",
+  "baseDir": ".spec/features/frontend-arquitetura",
+  "specDir": ".spec",
+  "repoName": "cafeina-tracker-api",
+  "logsDir": "../onp-worktrees/cafeina-tracker-api-frontend-arquitetura-logs",
+  "ondas": [],
+  "faixas": [],
+  "sequenciais": [
+    {
+      "id": "T-008",
+      "titulo": "Criar scaffold e instalar dependências",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "medium",
+      "arquivos": [
+        "frontend/package.json",
+        "frontend/package-lock.json",
+        "frontend/index.html",
+        "frontend/tsconfig.json",
+        "frontend/tsconfig.app.json",
+        "frontend/tsconfig.node.json",
+        "frontend/eslint.config.js"
+      ],
+      "refs": [
+        "US-008",
+        "AC-022",
+        "AC-023",
+        "AC-024",
+        "AC-033"
+      ]
+    },
+    {
+      "id": "T-009",
+      "titulo": "Criar fundações e fronteiras de módulos",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/src/app/App.tsx",
+        "frontend/src/components/ui/Button.tsx",
+        "frontend/src/components/ui/FieldMessage.tsx",
+        "frontend/src/components/ui/IconButton.tsx",
+        "frontend/src/components/ui/StatusPill.tsx",
+        "frontend/src/components/ui/index.ts",
+        "frontend/src/features/tracker/index.ts",
+        "frontend/src/features/cafeteria/index.ts",
+        "frontend/src/features/estatisticas/index.ts",
+        "frontend/src/features/laboratorio/exemplos.ts",
+        "frontend/src/features/laboratorio/index.ts",
+        "frontend/src/features/status/index.ts",
+        "frontend/src/lib/http.ts",
+        "frontend/src/lib/formatadores.ts",
+        "frontend/src/lib/classes.ts",
+        "frontend/src/styles/tokens.css",
+        "frontend/src/styles/reset.css",
+        "frontend/src/styles/globals.css",
+        "frontend/src/styles/motion.css",
+        "frontend/src/types/api.ts",
+        "frontend/src/main.tsx"
+      ],
+      "refs": [
+        "US-009",
+        "AC-025",
+        "AC-026"
+      ]
+    },
+    {
+      "id": "T-010",
+      "titulo": "Implementar adaptadores HTTP tipados",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/src/features/tracker/api.ts",
+        "frontend/src/features/cafeteria/api.ts",
+        "frontend/src/features/estatisticas/api.ts",
+        "frontend/src/features/status/api.ts",
+        "frontend/src/features/tracker/useTracker.ts"
+      ],
+      "refs": [
+        "US-009",
+        "AC-027",
+        "AC-032"
+      ]
+    },
+    {
+      "id": "T-011",
+      "titulo": "Configurar Vite, proxy e execução conjunta",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "medium",
+      "arquivos": [
+        "frontend/vite.config.ts",
+        "package.json",
+        "package-lock.json"
+      ],
+      "refs": [
+        "US-010",
+        "AC-028",
+        "AC-029"
+      ]
+    },
+    {
+      "id": "T-012",
+      "titulo": "Servir o build estático pelo Express",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "medium",
+      "arquivos": [
+        "src/servidor.ts",
+        "tests-jest/servidor.test.ts"
+      ],
+      "refs": [
+        "US-010",
+        "AC-030"
+      ]
+    },
+    {
+      "id": "T-013",
+      "titulo": "Configurar testes e gate combinado",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/jest.config.cjs",
+        "frontend/src/test/setup-jest.ts",
+        "frontend/src/test/styleMock.cjs",
+        "frontend/src/test/fileMock.cjs",
+        "frontend/eslint.config.js",
+        "frontend/package.json",
+        "scripts/run-spec-tests.mjs",
+        "onpspec.config.json",
+        "package.json"
+      ],
+      "refs": [
+        "US-011",
+        "AC-031",
+        "AC-032",
+        "AC-033"
+      ]
+    },
+    {
+      "id": "T-014",
+      "titulo": "Documentar instalação e comandos integrados",
+      "modelo": "gpt-5.6-luna",
+      "esforco": "low",
+      "arquivos": [
+        "README.md",
+        "frontend/README.md",
+        "docs/README.md",
+        "docs/arquitetura.md",
+        "docs/auditoria-arquitetura.md",
+        "docs/testes/jest.md",
+        "docs/testes/jasmine.md",
+        "docs/testes/estrutura.md"
+      ],
+      "refs": [
+        "US-008",
+        "US-010",
+        "US-011",
+        "AC-022",
+        "AC-024",
+        "AC-028",
+        "AC-030",
+        "AC-031",
+        "AC-033"
+      ]
+    }
+  ],
+  "concluidas": [],
+  "avisos": []
+}
