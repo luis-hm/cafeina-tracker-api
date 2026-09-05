@@ -1,0 +1,117 @@
+{
+  "feature": "cafeina-tracker-api",
+  "timestamp": "2026-09-01T05:07:52.497Z",
+  "gitRev": null,
+  "command": "npm run test:spec:all",
+  "reporter": "jest-json",
+  "exitCode": 0,
+  "testsParsed": 22,
+  "results": {
+    "AC-001": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:CALC-BASE @spec:AC-001 recomenda o café base para um dia descansado @paridade:CALC-BASE @spec:AC-001 recomenda o café base para um dia descansado",
+      "method": "jest-json"
+    },
+    "AC-002": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:CALC-SONO @spec:AC-002 soma uma unidade por hora de sono em falta @paridade:CALC-SONO @spec:AC-002 soma uma unidade por hora de sono em falta",
+      "method": "jest-json"
+    },
+    "AC-003": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:CALC-REUNIOES @spec:AC-003 soma uma unidade por duas reuniões completas @paridade:CALC-REUNIOES @spec:AC-003 soma uma unidade por duas reuniões completas",
+      "method": "jest-json"
+    },
+    "AC-004": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:CALC-TETO @spec:AC-004 limita a recomendação a dez @paridade:CALC-TETO @spec:AC-004 limita a recomendação a dez",
+      "method": "jest-json"
+    },
+    "AC-005": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:RISCO-FAIXAS @spec:AC-005 classifica todas as fronteiras de risco @paridade:RISCO-FAIXAS @spec:AC-005 classifica todas as fronteiras de risco",
+      "method": "jest-json"
+    },
+    "AC-006": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:MOTIVO-LISTA @spec:AC-006 sorteia itens de uma lista fixa com pelo menos cinco opções @paridade:MOTIVO-LISTA @spec:AC-006 sorteia itens de uma lista fixa com pelo menos cinco opções",
+      "method": "jest-json"
+    },
+    "AC-007": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:VALIDA-SONO @spec:AC-007 aponta horas de sono inválidas @paridade:VALIDA-SONO @spec:AC-007 aponta horas de sono inválidas",
+      "method": "jest-json"
+    },
+    "AC-008": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:VALIDA-REUNIOES @spec:AC-008 aponta quantidades de reuniões inválidas @paridade:VALIDA-REUNIOES @spec:AC-008 aponta quantidades de reuniões inválidas",
+      "method": "jest-json"
+    },
+    "AC-009": {
+      "status": "pass",
+      "testName": "lógica do Cafeína Tracker @paridade:MONTA-RESULTADO @spec:AC-009 compõe um resultado completo e permite snapshot @paridade:MONTA-RESULTADO @spec:AC-009 compõe um resultado completo e permite snapshot",
+      "method": "jest-json"
+    },
+    "AC-010": {
+      "status": "pass",
+      "testName": "serviço de cafeteria @paridade:CAFETERIA-STATUS @spec:AC-010 retorna preço e disponibilidade após 200 ms @paridade:CAFETERIA-STATUS @spec:AC-010 retorna preço e disponibilidade após 200 ms",
+      "method": "jest-json"
+    },
+    "AC-011": {
+      "status": "pass",
+      "testName": "serviço de cafeteria @paridade:CAFETERIA-ID-INVALIDO @spec:AC-011 rejeita identificadores vazios @paridade:CAFETERIA-ID-INVALIDO @spec:AC-011 rejeita identificadores vazios",
+      "method": "jest-json"
+    },
+    "AC-012": {
+      "status": "pass",
+      "testName": "estatísticas em memória @paridade:ESTATISTICAS-VAZIAS @spec:AC-012 retorna zero sem resultados @paridade:ESTATISTICAS-VAZIAS @spec:AC-012 retorna zero sem resultados",
+      "method": "jest-json"
+    },
+    "AC-013": {
+      "status": "pass",
+      "testName": "estatísticas em memória @paridade:ESTATISTICAS-MEDIA @spec:AC-013 calcula a média aritmética dos resultados @paridade:ESTATISTICAS-MEDIA @spec:AC-013 calcula a média aritmética dos resultados",
+      "method": "jest-json"
+    },
+    "AC-014": {
+      "status": "pass",
+      "testName": "estatísticas em memória @paridade:ESTATISTICAS-RESET @spec:AC-014 remove resultados registrados @paridade:ESTATISTICAS-RESET @spec:AC-014 remove resultados registrados",
+      "method": "jest-json"
+    },
+    "AC-015": {
+      "status": "pass",
+      "testName": "API HTTP @spec:AC-015 POST /tracker retorna e registra um resultado válido @spec:AC-015 POST /tracker retorna e registra um resultado válido",
+      "method": "jest-json"
+    },
+    "AC-016": {
+      "status": "pass",
+      "testName": "API HTTP @spec:AC-016 POST /tracker retorna todos os erros e não registra entrada inválida @spec:AC-016 POST /tracker retorna todos os erros e não registra entrada inválida",
+      "method": "jest-json"
+    },
+    "AC-017": {
+      "status": "pass",
+      "testName": "API HTTP @spec:AC-017 GET /cafeteria/:id retorna o status da cafeteria @spec:AC-017 GET /cafeteria/:id retorna o status da cafeteria",
+      "method": "jest-json"
+    },
+    "AC-018": {
+      "status": "pass",
+      "testName": "API HTTP @spec:AC-018 GET /cafeteria sem identificador ou com espaços retorna erro claro @spec:AC-018 GET /cafeteria sem identificador ou com espaços retorna erro claro",
+      "method": "jest-json"
+    },
+    "AC-019": {
+      "status": "pass",
+      "testName": "API HTTP @spec:AC-019 GET /estatisticas e /health informam média e saúde @spec:AC-019 GET /estatisticas e /health informam média e saúde",
+      "method": "jest-json"
+    },
+    "AC-020": {
+      "status": "pass",
+      "testName": "contratos do projeto @spec:AC-020 Jest e Jasmine possuem a mesma matriz marcada de casos de negócio @spec:AC-020 Jest e Jasmine possuem a mesma matriz marcada de casos de negócio",
+      "method": "jest-json"
+    },
+    "AC-021": {
+      "status": "pass",
+      "testName": "contratos do projeto @spec:AC-021 produção e Jasmine apontam somente para JavaScript compilado @spec:AC-021 produção e Jasmine apontam somente para JavaScript compilado",
+      "method": "jest-json"
+    }
+  },
+  "principles": {}
+}

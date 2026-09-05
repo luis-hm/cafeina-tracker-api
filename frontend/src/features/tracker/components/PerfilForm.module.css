@@ -1,0 +1,128 @@
+.form {
+  display: grid;
+  gap: var(--space-6);
+}
+
+.intro {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.intro h2 {
+  font-size: var(--font-size-h2);
+}
+
+.intro > p:last-child {
+  max-width: 36rem;
+  color: var(--text-muted);
+}
+
+.eyebrow {
+  color: var(--color-panel-blue);
+  font-family: var(--font-mono);
+  font-size: var(--font-size-data);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.field {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.labelRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  font-weight: 700;
+}
+
+.value {
+  min-width: 4.5rem;
+  padding: var(--space-1) var(--space-3);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-round);
+  background: var(--surface-code);
+  font-family: var(--font-mono);
+  text-align: center;
+}
+
+.range {
+  width: 100%;
+  min-height: 44px;
+  margin: 0;
+  accent-color: var(--color-panel-blue);
+}
+
+.rangeMarks {
+  display: flex;
+  justify-content: space-between;
+  margin-top: calc(var(--space-3) * -1);
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: var(--font-size-data);
+}
+
+.stepper {
+  display: grid;
+  grid-template-columns: 44px minmax(5rem, 1fr) 44px;
+  gap: var(--space-2);
+}
+
+.stepper input {
+  width: 100%;
+  min-width: 0;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-control);
+  background: var(--surface-code);
+  font-family: var(--font-mono);
+  font-size: 1.125rem;
+  text-align: center;
+}
+
+.stepper input[aria-invalid='true'] {
+  border-color: var(--color-alarm-red);
+  background: var(--surface-danger);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+
+.errorBox {
+  display: grid;
+  gap: var(--space-3);
+  padding: var(--space-4);
+  border: 1px solid var(--color-alarm-red);
+  border-left-width: 4px;
+  border-radius: var(--radius-control);
+  background: var(--surface-danger);
+}
+
+.errorBox :global(.ui-button) {
+  width: max-content;
+}
+
+.spinner {
+  animation: spin 800ms linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 480px) {
+  .actions {
+    display: grid;
+  }
+
+  .errorBox :global(.ui-button) {
+    width: 100%;
+  }
+}

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`lógica do Cafeína Tracker @paridade:MONTA-RESULTADO @spec:AC-009 compõe um resultado completo e permite snapshot 1`] = `
+{
+  "cafesRecomendados": 5,
+  "motivoExtra": "a reunião podia ser um e-mail",
+  "nivelRisco": "Atenção",
+}
+`;

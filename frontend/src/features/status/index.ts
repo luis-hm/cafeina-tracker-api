@@ -1,0 +1,1 @@
+export { buscarStatusApi } from './api'

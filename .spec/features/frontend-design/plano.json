@@ -1,0 +1,180 @@
+{
+  "runId": "cafeina-tracker-api-frontend-design-mti6fnft",
+  "feature": "frontend-design",
+  "agent": "codex",
+  "modo": "sequencial",
+  "paralelizar": null,
+  "modeloForcado": null,
+  "esforcoForcado": null,
+  "geradoEm": "2026-09-01 04:38",
+  "branchTrabalho": "spec/frontend-design",
+  "baseDir": ".spec/features/frontend-design",
+  "specDir": ".spec",
+  "repoName": "cafeina-tracker-api",
+  "logsDir": "../onp-worktrees/cafeina-tracker-api-frontend-design-logs",
+  "ondas": [],
+  "faixas": [],
+  "sequenciais": [
+    {
+      "id": "T-015",
+      "titulo": "Implementar tokens, fontes e fundações visuais",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/src/styles/tokens.css",
+        "frontend/src/styles/reset.css",
+        "frontend/src/styles/globals.css",
+        "frontend/src/styles/motion.css",
+        "frontend/src/main.tsx"
+      ],
+      "refs": [
+        "US-012",
+        "AC-035",
+        "AC-036",
+        "AC-050"
+      ]
+    },
+    {
+      "id": "T-016",
+      "titulo": "Montar o layout responsivo e o cabeçalho",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/src/app/App.tsx",
+        "frontend/src/app/App.module.css",
+        "frontend/src/components/AppHeader.tsx",
+        "frontend/src/components/AppHeader.module.css",
+        "frontend/src/components/ApiStatus.tsx"
+      ],
+      "refs": [
+        "US-012",
+        "US-015",
+        "AC-034",
+        "AC-036",
+        "AC-046"
+      ]
+    },
+    {
+      "id": "T-017",
+      "titulo": "Implementar formulário e estados de cálculo",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/src/features/tracker/components/PerfilForm.tsx",
+        "frontend/src/features/tracker/components/PerfilForm.module.css",
+        "frontend/src/features/tracker/useTracker.ts"
+      ],
+      "refs": [
+        "US-013",
+        "US-017",
+        "AC-037",
+        "AC-038",
+        "AC-039",
+        "AC-049",
+        "AC-050"
+      ]
+    },
+    {
+      "id": "T-018",
+      "titulo": "Construir xícara-medidor, risco e motion principal",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "xhigh",
+      "arquivos": [
+        "frontend/src/features/tracker/components/XicaraMedidor.tsx",
+        "frontend/src/features/tracker/components/XicaraMedidor.module.css",
+        "frontend/src/features/tracker/components/RiscoGauge.tsx",
+        "frontend/src/features/tracker/components/ResultadoTracker.tsx"
+      ],
+      "refs": [
+        "US-014",
+        "AC-040",
+        "AC-041",
+        "AC-042",
+        "AC-043"
+      ]
+    },
+    {
+      "id": "T-019",
+      "titulo": "Implementar cafeteria e média da sessão",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/src/features/cafeteria/CafeteriaStatus.tsx",
+        "frontend/src/features/cafeteria/CafeteriaStatus.module.css",
+        "frontend/src/features/estatisticas/MediaCafes.tsx",
+        "frontend/src/features/estatisticas/MediaCafes.module.css"
+      ],
+      "refs": [
+        "US-015",
+        "US-017",
+        "AC-044",
+        "AC-045",
+        "AC-049"
+      ]
+    },
+    {
+      "id": "T-020",
+      "titulo": "Implementar laboratório Jest versus Jasmine",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "xhigh",
+      "arquivos": [
+        "frontend/src/features/laboratorio/LaboratorioTestes.tsx",
+        "frontend/src/features/laboratorio/LaboratorioTestes.module.css",
+        "frontend/src/features/laboratorio/exemplos.ts"
+      ],
+      "refs": [
+        "US-016",
+        "AC-047",
+        "AC-048",
+        "AC-050",
+        "AC-051",
+        "AC-052",
+        "AC-053"
+      ]
+    },
+    {
+      "id": "T-021",
+      "titulo": "Integrar motion acessível e estados globais",
+      "modelo": "gpt-5.6-terra",
+      "esforco": "high",
+      "arquivos": [
+        "frontend/src/app/App.tsx",
+        "frontend/src/styles/motion.css"
+      ],
+      "refs": [
+        "US-012",
+        "US-014",
+        "US-017",
+        "AC-034",
+        "AC-042",
+        "AC-043",
+        "AC-049",
+        "AC-050"
+      ]
+    },
+    {
+      "id": "T-022",
+      "titulo": "Executar QA responsivo e documentar a interface",
+      "modelo": "gpt-5.6-luna",
+      "esforco": "medium",
+      "arquivos": [
+        "docs/frontend-design.md",
+        ".spec/features/frontend-design/qa-visual.md"
+      ],
+      "refs": [
+        "US-012",
+        "US-013",
+        "US-014",
+        "US-015",
+        "US-016",
+        "US-017",
+        "AC-034",
+        "AC-036",
+        "AC-043",
+        "AC-050"
+      ]
+    }
+  ],
+  "concluidas": [],
+  "avisos": []
+}

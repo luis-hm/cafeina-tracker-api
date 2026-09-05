@@ -1,0 +1,1 @@
+export { buscarEstatisticas } from './api'

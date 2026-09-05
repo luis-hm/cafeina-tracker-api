@@ -1,0 +1,17 @@
+{
+  "testCommand": "npm run test:spec:all",
+  "reporter": "jest-json",
+  "reporterOutputFile": ".spec/verification/all-results.json",
+  "testGlobs": [
+    "tests-jest/**/*.test.ts",
+    "tests-jasmine/**/*.spec.ts",
+    "frontend/src/**/*.test.ts",
+    "frontend/src/**/*.test.tsx"
+  ],
+  "srcGlobs": [
+    "src/**/*.ts",
+    "frontend/src/**/*.ts",
+    "frontend/src/**/*.tsx",
+    "frontend/src/**/*.css"
+  ]
+}

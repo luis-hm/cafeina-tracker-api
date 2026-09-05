@@ -1,0 +1,11 @@
+{
+  "feature": "frontend-design",
+  "timestamp": "2026-09-01T05:03:52.518Z",
+  "gitRev": null,
+  "command": "npm run test:spec:all",
+  "reporter": "jest-json",
+  "exitCode": 0,
+  "testsParsed": 22,
+  "results": {},
+  "principles": {}
+}
