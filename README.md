@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/brand/cafeina-logo-dark.svg">
+    <img alt="Cafeína Tracker" src="docs/brand/cafeina-logo-light.svg" width="400">
+  </picture>
+</p>
+
 # Cafeína Tracker pra Dev
 
 > *Caffeine-Driven Development*
